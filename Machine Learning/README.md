@@ -1,6 +1,2 @@
-Recently, scientists in UK attempted to cluster Covid-19 symptoms and succeeded at it.
-This is my attempt at replicating the project using machine learning algorithm like k-mean clustering algorithm.
-
-
-
-
+This is a folder related to projects on Machine Learning. 
+Various algorithms are used and served using Flask RESTful API. 
