@@ -1,5 +1,4 @@
 from flask import Flask, jsonify, request
-from joblib.parallel import method
 from sklearn.externals import joblib
 import traceback
 import pandas as pd
